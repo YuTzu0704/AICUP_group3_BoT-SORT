@@ -13,7 +13,7 @@ MODEL:
   LOSSES:
     TRI:
       HARD_MINING: False
-      MARGIN: 0.0
+      MARGIN: 0.3
 
 DATASETS:
   NAMES: ("AICUP",)
